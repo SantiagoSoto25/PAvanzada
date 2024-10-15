@@ -23,4 +23,3 @@ libro.AñoPublicacion = 2019;
 
 console.log(libro.AñoPublicacion);
 
-//Terminar

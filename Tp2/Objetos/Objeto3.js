@@ -9,6 +9,5 @@ descripcion: function(){
     return `El libro "${libro.Titulo}" fue escrito por ${libro.Autor}.`
 }
 }
-//console.log(libro)
 
 console.log(libro.descripcion());
