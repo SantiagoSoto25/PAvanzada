@@ -9,8 +9,7 @@ const estudiante = {
       calle: "Estrada 1176"
     }
   };
-  
-  // Crear una copia profunda del objeto
+
   const copia = JSON.parse(JSON.stringify(estudiante));
   
   console.log(copia);
